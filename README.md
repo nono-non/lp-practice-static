@@ -8,4 +8,4 @@
 
 タスクの追加ー進行ー完了時は、プロジェクトの更新も忘れないようにしてください。
 
-https://github.com/nono-non/lp-practice-static/projects/1
+https://github.com/nono-non/lp-practice-static/projects/2
