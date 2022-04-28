@@ -22,3 +22,9 @@ http://co.xrea.com/site/tools/
 
 # 必要な情報が書かれてるメール
 XREA.COM NEW SIGNUPというメールでgmail検索したらこのサイトに関する情報が書いてある
+
+# リリース手順
+プロジェクトディレクトリで以下のコマンドを実行してください
+```
+sh deploy.sh
+```
