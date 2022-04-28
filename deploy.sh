@@ -1,0 +1,1 @@
+scp -r ./ rennsyuu@s223.xrea.com:~/lp-practice-static
