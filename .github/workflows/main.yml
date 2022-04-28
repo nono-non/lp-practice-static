@@ -15,6 +15,7 @@ jobs:
         username: rennsyuu
         password: ${{ secrets.FTP_PASSWORD }}
         protocol: ftps
+        server-dir: ./lp-practice-static/
         exclude: |
           **/.git*
           **/.git*/**
